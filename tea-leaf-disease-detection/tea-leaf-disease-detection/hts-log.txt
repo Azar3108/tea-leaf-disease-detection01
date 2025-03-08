@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Mar 2025 23:12:31 at https://mohammedazarudeen-finalyearproject.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mohammedazarudeen-finalyearproject.netlify.app/ -O1 "C:\Users\user\OneDrive\Desktop\tea-leaf-disease-detection\tea-leaf-disease-detection" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:13:02	Error: 	"Not Found" (404) at link https://mohammedazarudeen-finalyearproject.netlify.app/vite.svg (from https://mohammedazarudeen-finalyearproject.netlify.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 5 links scanned, 3 files written (157684 bytes overall) [56066 bytes received at 1649 bytes/sec], 162030 bytes transferred using HTTP compression in 4 files, ratio 32%
+(1 errors, 0 warnings, 0 messages)
